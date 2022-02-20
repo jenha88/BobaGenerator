@@ -24,5 +24,10 @@ namespace bobaGen
         {
             InitializeComponent();
         }
+
+        private void btb_Click(object sender, RoutedEventArgs e)
+        {
+            //randomly generator between the options that user has picked 
+        }
     }
 }
